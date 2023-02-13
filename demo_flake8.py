@@ -1,5 +1,6 @@
-print("hellor world hellor world hellor world")
 from pathlib import path
 
+print("hellor world hellor world hellor world")
+
 package_dir = Path(__file__).parent.absolute()
-print(pacakge_dir)
+print(package_dir)

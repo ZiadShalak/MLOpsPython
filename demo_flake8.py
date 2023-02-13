@@ -1,4 +1,4 @@
-from pathlib import path
+from pathlib import Path
 
 print("hellor world hellor world hellor world")
 
